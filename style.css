@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  flex-flow: column wrap;
+  max-width: 200px;
+  gap: 5px;
+}
+.timer {
+  max-width: 100%;
+  font-size: 34px;
+  font-weight: bold;
+  font-family: trebuchet MS;
+  text-transform: uppercase;
+}
